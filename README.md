@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Esteban Loza
 ====================================================================================================================================
 
-Front-End Software Engineer
+Software Engineer
 ---------------------------
 
 I have had a lifelong passion for technology however, it was not until a year ago that I discovered web development which I fell in love with. Since then, I have been working on mastering the fundamentals of semantic HTML, CSS, Javascript, React, Node.Js, and MySQL, by applying my knowledge and skills to functional projects in my digital portfolio.
