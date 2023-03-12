@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ---------------------------
 
-I have had a lifelong passion for technology however, it was not until a year ago that I discovered web development which I fell in love with. Since then, I have been working on mastering the fundamentals of semantic HTML, CSS, Javascript, React, Node.Js, and MySQL, by applying my knowledge and skills to functional projects in my digital portfolio.
+I have had a lifelong passion for technology. I continue growing and mastering the fundamentals of HTML, CSS, Javascript, React, Node.Js, and MySQL, on a daily basis by applying my knowledge and skills to functional projects and solutions to real world problems using software. 
 
 * 🌍  I'm based in San Antonio, TX
 * 🖥️  See my portfolio at [stvloza.github.io](http://stvloza.github.io)
