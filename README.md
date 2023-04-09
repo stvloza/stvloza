@@ -8,7 +8,7 @@ I have had a lifelong passion for technology. I am currently undergoing a Full S
 
 * 🔭  Enrolled in Practicum by Yandex, a Full Stack Web Developer MERN online Bootcamp.
 * 🖥️  See my portfolio at [stvloza.github.io](http://stvloza.github.io)
-* 🌍  I'm based in San Antonio, TX but willing to relocate
+* 🌍  I'm based in San Antonio, TX, but am willing to relocate
 * ✉️  You can contact me at [stvloza@gmail.com](mailto:stvloza@gmail.com)
 * 🚀  I'm currently working on creating fitness software to help people with their overall wellness [Code](http://stvloza.github.io/)
 * 🧠  I'm constantly learning a new framework or language
