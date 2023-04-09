@@ -13,6 +13,7 @@ I have had a lifelong passion for technology. I am currently undergoing a Full S
 * 🚀  I'm currently working on creating fitness software to help people with their overall wellness [Code](http://stvloza.github.io/)
 * 🧠  I'm constantly learning a new framework or language
 * 🤝  I'm open to collaborating on open source projects
+* ⚡ Fun fact: I love to play chess and listen to all kinds of music.
 
 ### Skills
 
