@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am an aspiring Software Engineer
 ---------------------------
 
-I have had a lifelong passion for technology. Recently, I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online Bootcamp. I continue to grow and master the fundamentals of HTML, CSS, Javascript, React, Node.Js, and MySQL, on a daily basis by applying the knowledge and skills I have learned in my full-stack bootcamp by creating functional projects and solutions for real world problems.
+I have had a lifelong passion for technology. I am currently undergoing a Full Stack Web Developer MERN online Bootcamp by Yandex called Practicum. I continue to grow and master the fundamentals of HTML, CSS, Javascript, React, Node.Js, and MySQL, on a daily basis by applying the knowledge and skills I have learned in my full-stack bootcamp by creating functional projects and solutions for real world problems.
 
-* 🔭 I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online Bootcamp.
-* * 🖥️  See my portfolio at [stvloza.github.io](http://stvloza.github.io)
+* 🔭  Enrolled in Practicum by Yandex, a Full Stack Web Developer MERN online Bootcamp.
+* 🖥️  See my portfolio at [stvloza.github.io](http://stvloza.github.io)
 * 🌍  I'm based in San Antonio, TX but willing to relocate
 * ✉️  You can contact me at [stvloza@gmail.com](mailto:stvloza@gmail.com)
 * 🚀  I'm currently working on creating fitness software to help people with their overall wellness [Code](http://stvloza.github.io/)
