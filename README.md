@@ -6,7 +6,7 @@ I am an aspiring Software Engineer
 
 I have had a lifelong passion for technology. I am currently undergoing a Full Stack Web Developer MERN online Bootcamp by Yandex called Practicum. I continue to grow and master the fundamentals of HTML, CSS, Javascript, React, Node.Js, and MySQL, on a daily basis by applying the knowledge and skills I have learned in my full-stack bootcamp by creating functional projects and solutions for real world problems.
 
-* 🔭  Enrolled in Practicum by Yandex, a Full Stack Web Developer MERN online Bootcamp.
+* 🔭  Enrolled in TripleTen by Yandex, a Full Stack Web Developer MERN online Bootcamp.
 * 🖥️  See my portfolio at [stvloza.github.io](http://stvloza.github.io)
 * 🌍  I'm based in San Antonio, TX, but am willing to relocate
 * ✉️  You can contact me at [stvloza@gmail.com](mailto:stvloza@gmail.com)
